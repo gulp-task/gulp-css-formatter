@@ -1,12 +1,6 @@
-# gulp-nts-css-formatter
+# gulp-css-formatter
 
-Format CSS style to the old NHN Coding Convention.
-
-## Install
-
-```
-$ npm install git+https://oss.navercorp.com/UIT/gulp-nts-css-formatter.git --save-dev
-```
+Format CSS style to the old Coding Convention.
 
 ## Usage
 
