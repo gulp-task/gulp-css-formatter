@@ -1,0 +1,39 @@
+{
+  "name": "gulp-nts-css-formatter",
+  "version": "1.0.0",
+  "description": "Format CSS style to the old NHN Coding Convention.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oss.navercorp.com/UIT/gulp-nts-css-formatter.git"
+  },
+  "homepage": "https://oss.navercorp.com/UIT/gulp-nts-css-formatter",
+  "keywords": [
+    "gulp",
+    "nts",
+    "css",
+    "formatter",
+    "convention"
+  ],
+  "author": {
+    "name": "Keonjun Lee",
+    "email": "<ch4feel@nts-corp.com>"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "gulpfile.js"
+  ]
+}
